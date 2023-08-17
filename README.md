@@ -9,11 +9,13 @@
 ➡️ Expandable foundation for learning HTTP server development 📚
 
 ### 🔧 Usage 🔧
-📥 Clone the repository - [clone](https://github.com/Harsh-pipal/Nexus-HTPP-Server.git)
-🛠️ Compile Nexus:
-      ▶️ `g++ nexus.cpp -o nexus -lws2_32`
-🏃‍♂️ Run Nexus:
-      ▶️ `./nexus`
+📥 Clone the repository - [clone](https://github.com/Harsh-pipal/Nexus-HTPP-Server.git)  
+🛠️ Compile Nexus:  
+      ▶️ `g++ nexus.cpp -o nexus -lws2_32`  
+🏃‍♂️ Run Nexus:  
+      ▶️ `./nexus`  
+⚙️ Use Nexus:  
+      ▶️ `localhost:8080/`  
 
 ### 📢 Get Involved
 We welcome contributions! Feel free to fork this repository, make enhancements, and create pull requests. Let's make Nexus even better together! 💪
